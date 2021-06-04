@@ -1,0 +1,7 @@
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\Hangman Project\Hangman Project\bin\Debug\Hangman Project.exe.config
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\Hangman Project\Hangman Project\bin\Debug\Hangman Project.exe
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\Hangman Project\Hangman Project\bin\Debug\Hangman Project.pdb
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\Hangman Project\Hangman Project\obj\Debug\Hangman Project.csprojAssemblyReference.cache
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\Hangman Project\Hangman Project\obj\Debug\Hangman Project.csproj.CoreCompileInputs.cache
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\Hangman Project\Hangman Project\obj\Debug\Hangman Project.exe
+C:\Users\Dev-Samuel\Videos\ALL PROGRAMMING CODES\Visual Studio\Hangman Project\Hangman Project\obj\Debug\Hangman Project.pdb
